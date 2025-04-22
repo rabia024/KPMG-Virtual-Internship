@@ -1,5 +1,5 @@
 # KPMG-Virtual-Internship
-The KPMG AU Data Analytics Virtual Internship is designed to simulate a real-world data analytics project. Participants will work on a fictional client project, analyzing data and providing insights to drive business decisions. The internship offers a comprehensive learning journey, covering various aspects of data analytics, including data quality assessment, exploratory data analysis, data preparation, data visualization, and presentation of findings
+The KPMG AU Data Analytics Virtual Internship is designed to simulate a real-world data analytics project.  The internship offers a comprehensive learning journey, covering various aspects of data analytics, including data quality assessment, exploratory data analysis, data preparation, data visualization, and presentation of findings
 I just completed KPMG AU's Data Analytics on Forage. In the simulation I:
 Assessed data quality and completeness in preparation for analysis
 Analysed data to target high-value customers based on demographics and attributes
